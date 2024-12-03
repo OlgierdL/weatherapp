@@ -1,1 +1,1 @@
-
+Kod jest dobrze napisany i zrozumiały. Struktura klas jest poprawnie skonstruowana. Klasy spełniają przeważnie tylko jedną funkcję (Single Responsibility Principle). Dobrze zastosowane są specyfikatory dostępu. Nie występuje zbędne dziedziczenie i niepotrzebny kod. Do przetwarzania danych o pogodzie wykorzystywany jest plik JSON, co upraszcza kod i ułatwia ewntualną modyfikację.
