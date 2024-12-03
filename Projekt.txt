@@ -1,0 +1,7 @@
+Temat: aplikacja do prognozy pogody
+
+Język: Java, technologia Maven
+
+Opis: aplikacja do pobierania przez API prognozy pogody i wyświetlania jej dla użytkownika.
+
+API: OpenMeteo
